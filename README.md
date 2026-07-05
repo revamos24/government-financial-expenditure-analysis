@@ -45,3 +45,6 @@ This project analyzes government financial expenditure using Microsoft Excel and
 **Amos Onyeka**
 
 Aspiring Data Analyst | Business Intelligence Developer
+---
+## 📬 Let's Connect!
+* **LinkedIn:** [Emordi (Onyeka) Amos](https://www.linkedin.com/in/emordiamos)
